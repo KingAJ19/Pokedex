@@ -5,8 +5,8 @@
 }
 
 body {
-  background: #343422;
-  background: linear-gradient(to right, #1c1273, #000000);
+  background: #7c6e4f;
+  background: linear-gradient(to right, #b88989, #e74242);
   font-family: 'Lato', sans-serif;
   display: flex;
   flex-direction: column;
